@@ -1,6 +1,5 @@
 extends TileMap
 
-extends TileMap
 
 #tetrominoes
 var i_0 := [Vector2i(0, 1), Vector2i(1, 1), Vector2i(2, 1), Vector2i(3, 1)]
